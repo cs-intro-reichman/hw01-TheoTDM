@@ -11,5 +11,4 @@ public class Triangle {
         boolean psbl = a + b > c && a + c > b && b + c > a;
         System.out.println(a + ", " + b + ", " + c + ": " + psbl); 
     }	
-	}
 }
