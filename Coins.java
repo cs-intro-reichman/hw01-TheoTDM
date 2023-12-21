@@ -9,3 +9,4 @@ public class Coins {
         int cnts = a % 25;
         System.out.println("Use " + qtrs + " quarters and " + cnts + " cents"); 
     }
+}
